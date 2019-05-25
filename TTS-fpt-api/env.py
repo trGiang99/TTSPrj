@@ -2,7 +2,7 @@ import subprocess
 import os
 
 API_KEYS_DIR = 'keys.txt'       # File contains API keys
-INPUT_DIR = 'nhaGiaKim-aeneas-9'    # File contains input text data
+INPUT_DIR = 'textData'    # File contains input text data
 
 """
 Xác định các giọng đọc. Voice có các giá trị là:
