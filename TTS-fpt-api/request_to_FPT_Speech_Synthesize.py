@@ -2,12 +2,12 @@ import requests
 import wget
 import random
 import time
-from env import *
+from env import API_KEYS_DIR, VOICE, SPEED, PROSODY
 
 
-def wrap_sentence(content, lim=100):
+def wrap_sentence(content, limc=200):
     """
-    Wrap input paragraph into smaller pararaph with less than <lim> characters
+    Wrap input paragraph into smaller pararaph with less than <limc> characters
 
     Arguments:
         content {str} -- Input paragraph
@@ -16,7 +16,6 @@ def wrap_sentence(content, lim=100):
         lim {int} -- Limit characters (default: {100})
     """
     content = ''.join(content.split('\n'))
-    lim = 300
     wraptexts = []
     l = ''
 
@@ -27,7 +26,7 @@ def wrap_sentence(content, lim=100):
             l = f'{para}.'
         else:
             l = f'{l} {para}.'
-        if len(l + para) + 2 > lim:
+        if len(l + para) + 2 > limc:
             wraptexts.append(l)
             l = ''
     return wraptexts
@@ -58,8 +57,8 @@ def request_to_FSS(content):
         content {list} -- List of sentence in text input file
         input_name {str} -- Name of text input file
     """
-    wraptexts = wrap_sentence(content, 480)
-    keys = open(API_KEYS, 'r').read().split('\n')
+    wraptexts = wrap_sentence(content, limc=480)
+    keys = open(API_KEYS_DIR, 'r').read().split('\n')
 
     for i in range(len(wraptexts)):
         text = wraptexts[i]
