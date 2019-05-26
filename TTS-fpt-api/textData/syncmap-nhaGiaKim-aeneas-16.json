@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.560",
+   "id": "f000001",
+   "language": "vi",
+   "lines": [
+    "Ch\u01b0\u01a1ng n\u0103m m\u01b0\u01a1i hai."
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "1.600",
+   "id": "f000002",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "8.360",
+   "id": "f000003",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu \u0111i su\u1ed1t hai ti\u1ebfng r\u01b0\u1ee1i tr\u00ean sa m\u1ea1c, c\u1ed1 l\u1eafng nghe tr\u00e1i tim m\u00ecnh, v\u00ec n\u00f3 s\u1ebd cho c\u1eadu bi\u1ebft ch\u00ednh x\u00e1c kho t\u00e0ng ch\u00f4n gi\u1ea5u ch\u1ed7 n\u00e0o."
+   ]
+  },
+  {
+   "begin": "8.360",
+   "children": [],
+   "end": "8.880",
+   "id": "f000004",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "8.880",
+   "children": [],
+   "end": "14.240",
+   "id": "f000005",
+   "language": "vi",
+   "lines": [
+    "Kho t\u00e0ng c\u1ee7a c\u1eadu \u1edf \u0111\u00e2u th\u00ec tr\u00e1i tim c\u1eadu c\u0169ng \u1edf \u0111\u00f3, nh\u00e0 luy\u1ec7n kim \u0111an \u0111\u00e3 b\u1ea3o c\u1eadu th\u1ebf."
+   ]
+  },
+  {
+   "begin": "14.240",
+   "children": [],
+   "end": "14.240",
+   "id": "f000006",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "14.240",
+   "children": [],
+   "end": "16.880",
+   "id": "f000007",
+   "language": "vi",
+   "lines": [
+    "Nh\u01b0ng tim c\u1eadu l\u1ea1i n\u00f3i v\u1ec1 nh\u1eefng chuy\u1ec7n kh\u00e1c."
+   ]
+  },
+  {
+   "begin": "16.880",
+   "children": [],
+   "end": "23.680",
+   "id": "f000008",
+   "language": "vi",
+   "lines": [
+    "N\u00f3 h\u00e3nh di\u1ec7n k\u1ec3 v\u1ec1 m\u1ed9t g\u00e3 ch\u0103n c\u1eebu \u0111\u00e3 r\u1eddi b\u1ecf \u0111\u00e0n c\u1eebu c\u1ee7a m\u00ecnh \u0111\u1ec3 theo m\u1ed9t gi\u1ea5c m\u1ed9ng m\u00e0 g\u00e3 \u0111\u00e3 m\u01a1 th\u1ea5y hai l\u1ea7n."
+   ]
+  },
+  {
+   "begin": "23.680",
+   "children": [],
+   "end": "33.520",
+   "id": "f000009",
+   "language": "vi",
+   "lines": [
+    "N\u00f3 n\u00f3i v\u1ec1 v\u1eadn m\u1ec7nh v\u00e0 v\u1ec1 nh\u1eefng ng\u01b0\u1eddi c\u0169ng \u0111\u00e3 t\u1eebng l\u00ean \u0111\u01b0\u1eddng \u0111i t\u00ecm nh\u1eefng v\u00f9ng \u0111\u1ea5t xa x\u00f4i v\u00e0 \u0111\u00e0n b\u00e0 \u0111\u1eb9p, \u0111\u01b0\u01a1ng \u0111\u1ea7u v\u1edbi nh\u1eefng ng\u01b0\u1eddi \u0111\u01b0\u01a1ng th\u1eddi c\u00f9ng nh\u1eefng th\u1ebf gi\u1edbi quan v\u00e0 \u0111\u1ecbnh ki\u1ebfn c\u1ee7a h\u1ecd."
+   ]
+  },
+  {
+   "begin": "33.520",
+   "children": [],
+   "end": "39.640",
+   "id": "f000010",
+   "language": "vi",
+   "lines": [
+    "Su\u1ed1t d\u1ecdc \u0111\u01b0\u1eddng n\u00f3 k\u1ec3 v\u1ec1 nh\u1eefng chuy\u1ebfn vi\u1ec5n du, nh\u1eefng kh\u00e1m ph\u00e1 l\u1edbn, nh\u1eefng s\u00e1ch v\u1edf v\u00e0 nh\u1eefng bi\u1ebfn chuy\u1ec3n l\u1edbn lao."
+   ]
+  },
+  {
+   "begin": "39.640",
+   "children": [],
+   "end": "47.920",
+   "id": "f000011",
+   "language": "vi",
+   "lines": [
+    "Ch\u1ec9 v\u00e0o l\u00fac c\u1eadu \u0111\u1ecbnh leo l\u00ean m\u1ed9t \u0111\u1ed3i c\u00e1t, \u0111\u00fang ngay gi\u00e2y ph\u00fat \u0111\u00f3, kh\u00f4ng h\u01a1n kh\u00f4ng k\u00e9m m\u1ed9t gi\u00e2y, tim c\u1eadu m\u1edbi th\u00ec th\u00e0o H\u00e3y ghi nh\u1edb n\u01a1i m\u00e0 c\u1eadu s\u1ebd kh\u00f3c."
+   ]
+  },
+  {
+   "begin": "47.920",
+   "children": [],
+   "end": "51.880",
+   "id": "f000012",
+   "language": "vi",
+   "lines": [
+    "T\u00f4i c\u0169ng s\u1ebd c\u00f3 m\u1eb7t \u1edf \u0111\u00f3 v\u00e0 \u0111\u00f3 c\u0169ng l\u00e0 n\u01a1i ch\u00f4n gi\u1ea5u kho b\u00e1u c\u1ee7a c\u1eadu \u0111\u1ea5y."
+   ]
+  },
+  {
+   "begin": "51.880",
+   "children": [],
+   "end": "52.400",
+   "id": "f000013",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "52.400",
+   "children": [],
+   "end": "54.440",
+   "id": "f000014",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu t\u1eeb t\u1eeb leo l\u00ean \u0111\u1ed3i c\u00e1t."
+   ]
+  },
+  {
+   "begin": "54.440",
+   "children": [],
+   "end": "57.360",
+   "id": "f000015",
+   "language": "vi",
+   "lines": [
+    "Tr\u0103ng l\u1ea1i tr\u00f2n v\u00e0nh v\u1ea1nh gi\u1eefa b\u1ea7u tr\u1eddi \u0111\u1ea7y sao."
+   ]
+  },
+  {
+   "begin": "57.360",
+   "children": [],
+   "end": "59.760",
+   "id": "f000016",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu \u0111\u00e3 r\u1eddi \u1ed1c \u0111\u1ea3o \u0111\u01b0\u1ee3c \u0111\u00fang m\u1ed9t th\u00e1ng."
+   ]
+  },
+  {
+   "begin": "59.760",
+   "children": [],
+   "end": "68.720",
+   "id": "f000017",
+   "language": "vi",
+   "lines": [
+    "\u0110\u1ed3i c\u00e1t ch\u1ed7 s\u00e1ng ch\u1ed7 t\u1ed1i d\u01b0\u1edbi \u00e1nh tr\u0103ng tr\u00f4ng nh\u01b0 m\u1eb7t bi\u1ec3n g\u1ee3n s\u00f3ng l\u00e0m c\u1eadu nh\u1edb l\u1ea1i c\u00e1i l\u1ea7n m\u00ecnh bu\u00f4ng c\u01b0\u01a1ng \u0111\u1ec3 ng\u1ef1a \u0111i t\u00ecm d\u1ea5u hi\u1ec7u m\u00e0 nh\u00e0 luy\u1ec7n kim \u0111an \u0111\u00f2i h\u1ecfi."
+   ]
+  },
+  {
+   "begin": "68.720",
+   "children": [],
+   "end": "74.440",
+   "id": "f000018",
+   "language": "vi",
+   "lines": [
+    "\u00c1nh tr\u0103ng soi tr\u00ean sa m\u1ea1c im \u1eafng v\u00e0 soi c\u1ea3 nh\u1eefng chuy\u1ebfn vi\u1ec5n du c\u1ee7a nh\u1eefng ng\u01b0\u1eddi \u0111i t\u00ecm kho b\u00e1u."
+   ]
+  },
+  {
+   "begin": "74.440",
+   "children": [],
+   "end": "74.440",
+   "id": "f000019",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "74.440",
+   "children": [],
+   "end": "78.360",
+   "id": "f000020",
+   "language": "vi",
+   "lines": [
+    "L\u00e1t sau, khi c\u1eadu leo l\u00ean \u0111\u01b0\u1ee3c \u0111\u1ec9nh \u0111\u1ed3i c\u00e1t th\u00ec tim c\u1eadu r\u1ed9n l\u00ean m\u1eebng r\u1ee1."
+   ]
+  },
+  {
+   "begin": "78.360",
+   "children": [],
+   "end": "84.160",
+   "id": "f000021",
+   "language": "vi",
+   "lines": [
+    "Kim T\u1ef1 Th\u00e1p Ai C\u1eadp n\u1eb1m kia, \u0111\u1ed3 s\u1ed9 v\u00e0 h\u00f9ng v\u0129 tr\u00ean m\u1eb7t sa m\u1ea1c lo\u00e1ng \u00e1nh tr\u0103ng tr\u00f2n."
+   ]
+  },
+  {
+   "begin": "84.160",
+   "children": [],
+   "end": "86.800",
+   "id": "f000022",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu qu\u00ec xu\u1ed1ng v\u00e0 kh\u00f3c v\u00ec ng\u1ee3p trong h\u1ea1nh ph\u00fac."
+   ]
+  },
+  {
+   "begin": "86.800",
+   "children": [],
+   "end": "96.120",
+   "id": "f000023",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu t\u1ea1 \u01a1n Th\u01b0\u1ee3ng \u0110\u1ebf \u0111\u00e3 khi\u1ebfn c\u1eadu tin v\u00e0o v\u1eadn m\u1ec7nh m\u00ecnh c\u0169ng nh\u01b0 \u0111\u00e3 khi\u1ebfn c\u1eadu g\u1eb7p \u0111\u01b0\u1ee3c v\u1ecb vua gi\u00e0, ch\u1ee7 c\u1eeda h\u00e0ng pha l\u00ea, anh ch\u00e0ng ng\u01b0\u1eddi Anh v\u00e0 nh\u00e0 luy\u1ec7n kim \u0111an."
+   ]
+  },
+  {
+   "begin": "96.120",
+   "children": [],
+   "end": "103.640",
+   "id": "f000024",
+   "language": "vi",
+   "lines": [
+    "Nh\u1ea5t l\u00e0 \u0111\u00e3 khi\u1ebfn c\u1eadu g\u1eb7p \u0111\u01b0\u1ee3c c\u00f4 g\u00e1i sa m\u1ea1c v\u00e0 c\u00f4 \u0111\u00e3 cho c\u1eadu bi\u1ebft r\u1eb1ng t\u00ecnh y\u00eau kh\u00f4ng bao gi\u1edd c\u1ea3n tr\u1edf ng\u01b0\u1eddi trai theo \u0111u\u1ed5i v\u1eadn m\u1ec7nh m\u00ecnh."
+   ]
+  },
+  {
+   "begin": "103.640",
+   "children": [],
+   "end": "107.640",
+   "id": "f000025",
+   "language": "vi",
+   "lines": [
+    "C\u00e1c Kim T\u1ef1 Th\u00e1p h\u00f9ng v\u0129 c\u00f3 t\u1eeb h\u00e0ng ngh\u00ecn n\u0103m tr\u01b0\u1edbc nh\u01b0 nh\u00ecn xu\u1ed1ng c\u1eadu."
+   ]
+  },
+  {
+   "begin": "107.640",
+   "children": [],
+   "end": "114.120",
+   "id": "f000026",
+   "language": "vi",
+   "lines": [
+    "N\u1ebfu mu\u1ed1n c\u1eadu c\u00f3 th\u1ec3 quay v\u1ec1 \u1ed1c \u0111\u1ea3o ngay b\u00e2y gi\u1edd, l\u1ea5y Fatima v\u00e0 s\u1ed1ng cu\u1ed9c \u0111\u1eddi c\u1ee7a ng\u01b0\u1eddi ch\u0103n c\u1eebu b\u00ecnh th\u01b0\u1eddng."
+   ]
+  },
+  {
+   "begin": "114.120",
+   "children": [],
+   "end": "119.840",
+   "id": "f000027",
+   "language": "vi",
+   "lines": [
+    "Ngay c\u1ea3 nh\u00e0 luy\u1ec7n kim \u0111an c\u0169ng s\u1ed1ng trong sa m\u1ea1c, d\u00f9 \u00f4ng bi\u1ebft th\u1ee9 ng\u00f4n ng\u1eef v\u0169 tr\u1ee5 v\u00e0 bi\u1ebfn \u0111\u01b0\u1ee3c ch\u00ec th\u00e0nh v\u00e0ng."
+   ]
+  },
+  {
+   "begin": "119.840",
+   "children": [],
+   "end": "120.240",
+   "id": "f000028",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "120.240",
+   "children": [],
+   "end": "124.320",
+   "id": "f000029",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu ch\u1eb3ng c\u1ea7n ph\u1ea3i ch\u1ee9ng t\u1ecf v\u1edbi m\u1ed9t ai ki\u1ebfn th\u1ee9c v\u00e0 t\u00e0i s\u1ea3n c\u1ee7a m\u00ecnh."
+   ]
+  },
+  {
+   "begin": "124.320",
+   "children": [],
+   "end": "129.720",
+   "id": "f000030",
+   "language": "vi",
+   "lines": [
+    "Tr\u00ean b\u01b0\u1edbc \u0111\u01b0\u1eddng th\u1ef1c hi\u1ec7n v\u1eadn m\u1ec7nh m\u00ecnh c\u1eadu \u0111\u00e3 h\u1ecdc \u0111\u01b0\u1ee3c m\u1ecdi \u0111i\u1ec1u c\u1ea7n thi\u1ebft v\u00e0 \u0111\u00e3 \u0111\u01b0\u1ee3c s\u1ed1ng nh\u01b0 c\u1eadu h\u1eb1ng m\u01a1 t\u01b0\u1edfng."
+   ]
+  },
+  {
+   "begin": "129.720",
+   "children": [],
+   "end": "133.640",
+   "id": "f000031",
+   "language": "vi",
+   "lines": [
+    "B\u00e2y gi\u1edd th\u00ec c\u1eadu \u0111\u00e3 t\u1edbi \u0111\u01b0\u1ee3c n\u01a1i ch\u00f4n gi\u1ea5u kho b\u00e1u r\u1ed3i."
+   ]
+  },
+  {
+   "begin": "133.640",
+   "children": [],
+   "end": "137.160",
+   "id": "f000032",
+   "language": "vi",
+   "lines": [
+    "Nh\u01b0ng m\u1ed9t vi\u1ec7c ch\u1ec9 \u0111\u01b0\u1ee3c coi l\u00e0 ho\u00e0n t\u1ea5t khi n\u00e0o \u0111\u1ea1t m\u1ee5c ti\u00eau ."
+   ]
+  },
+  {
+   "begin": "137.160",
+   "children": [],
+   "end": "137.160",
+   "id": "f000033",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "137.160",
+   "children": [],
+   "end": "139.200",
+   "id": "f000034",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu \u0111\u00e3 kh\u00f3c tr\u00ean \u0111\u1ed3i c\u00e1t n\u00e0y."
+   ]
+  },
+  {
+   "begin": "139.200",
+   "children": [],
+   "end": "143.560",
+   "id": "f000035",
+   "language": "vi",
+   "lines": [
+    "Nh\u00ecn xu\u1ed1ng m\u1eb7t c\u00e1t c\u1eadu th\u1ea5y m\u1ed9t con b\u1ecd hung \u0111ang b\u1edbi ch\u1ed7 n\u01b0\u1edbc m\u1eaft c\u1eadu v\u1eeba r\u01a1i xu\u1ed1ng."
+   ]
+  },
+  {
+   "begin": "143.560",
+   "children": [],
+   "end": "148.280",
+   "id": "f000036",
+   "language": "vi",
+   "lines": [
+    "Trong nh\u1eefng ng\u00e0y \u1edf sa m\u1ea1c c\u1eadu h\u1ecdc \u0111\u01b0\u1ee3c r\u1eb1ng \u1edf Ai C\u1eadp b\u1ecd hung l\u00e0 d\u1ea5u hi\u1ec7u c\u1ee7a Th\u01b0\u1ee3ng \u0110\u1ebf."
+   ]
+  },
+  {
+   "begin": "148.280",
+   "children": [],
+   "end": "150.680",
+   "id": "f000037",
+   "language": "vi",
+   "lines": [
+    "Th\u1ebf l\u00e0 th\u00eam m\u1ed9t \u0111i\u1ec1m b\u00e1o n\u1eefa."
+   ]
+  },
+  {
+   "begin": "150.680",
+   "children": [],
+   "end": "157.520",
+   "id": "f000038",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu b\u1eaft \u0111\u1ea7u \u0111\u00e0o, v\u1eeba \u0111\u00e0o v\u1eeba nh\u1edb t\u1edbi \u0111i\u1ec1u ng\u01b0\u1eddi b\u00e1n h\u00e0ng pha l\u00ea t\u1eebng n\u00f3i ai c\u0169ng c\u00f3 th\u1ec3 x\u00e2y \u0111\u01b0\u1ee3c Kim T\u1ef1 Th\u00e1p trong v\u01b0\u1eddn c\u1ee7a m\u00ecnh."
+   ]
+  },
+  {
+   "begin": "157.520",
+   "children": [],
+   "end": "163.600",
+   "id": "f000039",
+   "language": "vi",
+   "lines": [
+    "B\u00e2y gi\u1edd th\u00ec c\u1eadu th\u1ea5y c\u00f3 b\u1ecf c\u1ea3 \u0111\u1eddi \u0111\u1ec3 ch\u1ed3ng \u0111\u00e1 l\u00ean nhau c\u0169ng ch\u1eb3ng bao gi\u1edd th\u00e0nh n\u1ed5i m\u1ed9t Kim T\u1ef1 Th\u00e1p \u0111\u01b0\u1ee3c."
+   ]
+  },
+  {
+   "begin": "163.600",
+   "children": [],
+   "end": "164.080",
+   "id": "f000040",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "164.080",
+   "children": [],
+   "end": "167.040",
+   "id": "f000041",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu \u0111\u00e0o su\u1ed1t \u0111\u00eam ch\u1ec9 m\u1ed9t ch\u1ed7 \u0111\u00f3 m\u00e0 ch\u1eb3ng t\u00ecm th\u1ea5y g\u00ec."
+   ]
+  },
+  {
+   "begin": "167.040",
+   "children": [],
+   "end": "170.640",
+   "id": "f000042",
+   "language": "vi",
+   "lines": [
+    "Kim T\u1ef1 Th\u00e1p h\u00e0ng ngh\u00ecn n\u0103m kia l\u1eb7ng l\u1ebd nh\u00ecn xu\u1ed1ng c\u1eadu."
+   ]
+  },
+  {
+   "begin": "170.640",
+   "children": [],
+   "end": "176.360",
+   "id": "f000043",
+   "language": "vi",
+   "lines": [
+    "Nh\u01b0ng c\u1eadu kh\u00f4ng b\u1ecf cu\u1ed9c c\u1eadu ti\u1ebfp t\u1ee5c v\u1eeba \u0111\u00e0o v\u1eeba ph\u1ea3i c\u1ea3n ng\u1ecdn gi\u00f3 c\u1ee9 l\u00f9a c\u00e1t v\u00e0o l\u1ea1i l\u1ed7 tr\u0169ng."
+   ]
+  },
+  {
+   "begin": "176.360",
+   "children": [],
+   "end": "179.760",
+   "id": "f000044",
+   "language": "vi",
+   "lines": [
+    "Hai tay c\u1eadu m\u1ecfi nh\u1eeb, t\u1ea5y l\u00ean nh\u01b0ng c\u1eadu tin v\u00e0o tr\u00e1i tim m\u00ecnh."
+   ]
+  },
+  {
+   "begin": "179.760",
+   "children": [],
+   "end": "180.280",
+   "id": "f000045",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "180.280",
+   "children": [],
+   "end": "183.160",
+   "id": "f000046",
+   "language": "vi",
+   "lines": [
+    "N\u00f3 \u0111\u00e3 b\u1ea3o c\u1eadu ph\u1ea3i \u0111\u00e0o ch\u1ed7 nh\u1eefng gi\u1ecdt n\u01b0\u1edbc m\u1eaft r\u01a1i xu\u1ed1ng."
+   ]
+  },
+  {
+   "begin": "183.160",
+   "children": [],
+   "end": "183.160",
+   "id": "f000047",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "183.160",
+   "children": [],
+   "end": "186.560",
+   "id": "f000048",
+   "language": "vi",
+   "lines": [
+    "R\u1ed3i c\u1eadu ch\u1ee3t nghe c\u00f3 ti\u1ebfng ch\u00e2n trong l\u00fac \u0111ang moi \u0111\u00e1."
+   ]
+  },
+  {
+   "begin": "186.560",
+   "children": [],
+   "end": "188.480",
+   "id": "f000049",
+   "language": "vi",
+   "lines": [
+    "C\u00f3 m\u1ea5y b\u00f3ng ng\u01b0\u1eddi \u0111ang l\u1ea1i g\u1ea7n."
+   ]
+  },
+  {
+   "begin": "188.480",
+   "children": [],
+   "end": "192.560",
+   "id": "f000050",
+   "language": "vi",
+   "lines": [
+    "H\u1ecd quay l\u01b0ng v\u1ec1 ph\u00eda \u00e1nh tr\u0103ng n\u00ean c\u1eadu kh\u00f4ng th\u1ea5y \u0111\u01b0\u1ee3c m\u1eb7t m\u0169i l\u1eabn m\u1eaft h\u1ecd."
+   ]
+  },
+  {
+   "begin": "192.560",
+   "children": [],
+   "end": "193.080",
+   "id": "f000051",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "193.080",
+   "children": [],
+   "end": "194.680",
+   "id": "f000052",
+   "language": "vi",
+   "lines": [
+    "M\u00e0y l\u00e0m tr\u00f2 g\u00ec \u0111\u1ea5y."
+   ]
+  },
+  {
+   "begin": "194.680",
+   "children": [],
+   "end": "196.000",
+   "id": "f000053",
+   "language": "vi",
+   "lines": [
+    "M\u1ed9t c\u00e1i b\u00f3ng h\u1ecfi."
+   ]
+  },
+  {
+   "begin": "196.000",
+   "children": [],
+   "end": "196.000",
+   "id": "f000054",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "196.000",
+   "children": [],
+   "end": "203.640",
+   "id": "f000055",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu kh\u00f4ng \u0111\u00e1p m\u00e0 th\u1ea5y s\u1ee3, s\u1ee3 m\u1ea5t kho b\u00e1u B\u1ecdn ta ch\u1ea1y l\u1ea1c v\u00ec c\u00e1c b\u1ed9 l\u1ea1c \u0111\u00e1nh nhau, n\u00ean r\u1ea5t c\u1ea7n ti\u1ec1n, m\u1ed9t b\u00f3ng kh\u00e1c n\u00f3i."
+   ]
+  },
+  {
+   "begin": "203.640",
+   "children": [],
+   "end": "204.800",
+   "id": "f000056",
+   "language": "vi",
+   "lines": [
+    "M\u00e0y gi\u1ea5u g\u00ec \u1edf \u0111\u1ea5y."
+   ]
+  },
+  {
+   "begin": "204.800",
+   "children": [],
+   "end": "207.200",
+   "id": "f000057",
+   "language": "vi",
+   "lines": [
+    "T\u00f4i ch\u1eb3ng gi\u1ea5u g\u00ec c\u1ea3, c\u1eadu \u0111\u00e1p."
+   ]
+  },
+  {
+   "begin": "207.200",
+   "children": [],
+   "end": "211.200",
+   "id": "f000058",
+   "language": "vi",
+   "lines": [
+    "Nh\u01b0ng m\u1ed9t c\u00e1i b\u00f3ng kh\u00e1c t\u00fam l\u1ea5y c\u1eadu, k\u00e9o ra kh\u1ecfi h\u1ed1."
+   ]
+  },
+  {
+   "begin": "211.200",
+   "children": [],
+   "end": "213.680",
+   "id": "f000059",
+   "language": "vi",
+   "lines": [
+    "M\u1ed9t t\u00ean kh\u00e1c l\u1ee5c t\u00fai c\u1eadu, th\u1ea5y th\u1ecfi v\u00e0ng."
+   ]
+  },
+  {
+   "begin": "213.680",
+   "children": [],
+   "end": "214.160",
+   "id": "f000060",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "214.160",
+   "children": [],
+   "end": "216.480",
+   "id": "f000061",
+   "language": "vi",
+   "lines": [
+    "N\u00f3 c\u00f3 v\u00e0ng trong ng\u01b0\u1eddi, g\u00e3 \u0111\u00f3 k\u00eau."
+   ]
+  },
+  {
+   "begin": "216.480",
+   "children": [],
+   "end": "216.960",
+   "id": "f000062",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "216.960",
+   "children": [],
+   "end": "220.400",
+   "id": "f000063",
+   "language": "vi",
+   "lines": [
+    "\u00c1nh tr\u0103ng r\u1ecdi v\u00e0o m\u1eb7t g\u00e3 v\u00e0 c\u1eadu nh\u00ecn th\u1ea5y th\u1ea7n ch\u1ebft trong \u0111\u00f4i m\u1eaft h\u1ecd."
+   ]
+  },
+  {
+   "begin": "220.400",
+   "children": [],
+   "end": "220.400",
+   "id": "f000064",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "220.400",
+   "children": [],
+   "end": "224.280",
+   "id": "f000065",
+   "language": "vi",
+   "lines": [
+    "Ch\u1eafc l\u00e0 n\u00f3 c\u00f2n gi\u1ea5u trong c\u00e1t nhi\u1ec1u v\u00e0ng n\u1eefa, m\u1ed9t g\u00e3 kh\u00e1c n\u00f3i."
+   ]
+  },
+  {
+   "begin": "224.280",
+   "children": [],
+   "end": "224.280",
+   "id": "f000066",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "224.280",
+   "children": [],
+   "end": "227.720",
+   "id": "f000067",
+   "language": "vi",
+   "lines": [
+    "Ch\u00fang b\u1eaft c\u1eadu \u0111\u00e0o ti\u1ebfp, nh\u01b0ng r\u00fat c\u1ee5c v\u1eabn ch\u1eb3ng th\u1ea5y g\u00ec h\u1ebft."
+   ]
+  },
+  {
+   "begin": "227.720",
+   "children": [],
+   "end": "232.080",
+   "id": "f000068",
+   "language": "vi",
+   "lines": [
+    "Th\u1ebf l\u00e0 ch\u00fang x\u00fam l\u1ea1i t\u1ea9n c\u1eadu, m\u00e3i cho \u0111\u1ebfn khi m\u1eb7t tr\u1eddi l\u00f3 d\u1ea1ng."
+   ]
+  },
+  {
+   "begin": "232.080",
+   "children": [],
+   "end": "235.240",
+   "id": "f000069",
+   "language": "vi",
+   "lines": [
+    "Qu\u1ea7n \u00e1o c\u1eadu r\u00e1ch b\u01b0\u01a1m v\u00e0 c\u1eadu c\u1ea3m th\u1ea5y m\u00ecnh g\u1ea7n k\u1ec1 c\u00e1i ch\u1ebft."
+   ]
+  },
+  {
+   "begin": "235.240",
+   "children": [],
+   "end": "235.240",
+   "id": "f000070",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "235.240",
+   "children": [],
+   "end": "238.720",
+   "id": "f000071",
+   "language": "vi",
+   "lines": [
+    "\u0110\u1eb1ng n\u00e0o m\u00ecnh c\u0169ng s\u1ebd ch\u1ebft th\u00ec ti\u1ec1n c\u00f2n qu\u00ed b\u00e1u g\u00ec n\u1eefa."
+   ]
+  },
+  {
+   "begin": "238.720",
+   "children": [],
+   "end": "244.200",
+   "id": "f000072",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu ngh\u0129 v\u00e0 nh\u1edb l\u1ea1i nh\u00e0 luy\u1ec7n kim \u0111an \u0111\u00e3 t\u1eebng n\u00f3i \u00cdt khi ti\u1ec1n c\u1ee9u \u0111\u01b0\u1ee3c ng\u01b0\u1eddi ta kh\u1ecfi ch\u1ebft."
+   ]
+  },
+  {
+   "begin": "244.200",
+   "children": [],
+   "end": "253.880",
+   "id": "f000073",
+   "language": "vi",
+   "lines": [
+    "Th\u1ebf l\u00e0 c\u1eadu th\u00fa th\u1ef1c T\u00f4i t\u00ecm kho b\u00e1u, r\u1ed3i v\u1edbi \u0111\u00f4i m\u00f4i d\u1eadp n\u00e1t v\u00e0 s\u01b0ng v\u00f9 c\u1eadu k\u1ec3 cho b\u1ecdn kia r\u1eb1ng \u0111\u00e3 hai l\u1ea7n m\u01a1 th\u1ea5y m\u1ed9t kho t\u00e0ng gi\u1ea5u g\u1ea7n Kim T\u1ef1 Th\u00e1p n\u00e0y."
+   ]
+  },
+  {
+   "begin": "253.880",
+   "children": [],
+   "end": "258.320",
+   "id": "f000074",
+   "language": "vi",
+   "lines": [
+    "G\u00e3 c\u00f3 v\u1ebb l\u00e0 \u0111\u1ea7u s\u1ecf l\u0169 n\u00e0y im l\u1eb7ng m\u1ed9t l\u00fac r\u1ed3i b\u1ea3o \u0111\u1ed3ng b\u1ecdn Th\u1ea3 n\u00f3 ra."
+   ]
+  },
+  {
+   "begin": "258.320",
+   "children": [],
+   "end": "259.280",
+   "id": "f000075",
+   "language": "vi",
+   "lines": [
+    "N\u00f3 h\u1ebft s\u1ea1ch r\u1ed3i."
+   ]
+  },
+  {
+   "begin": "259.280",
+   "children": [],
+   "end": "261.720",
+   "id": "f000076",
+   "language": "vi",
+   "lines": [
+    "Ch\u1ed7 v\u00e0ng n\u00e0y ch\u1eafc l\u00e0 n\u00f3 l\u1ea5y c\u1eafp \u0111\u01b0\u1ee3c."
+   ]
+  },
+  {
+   "begin": "261.720",
+   "children": [],
+   "end": "262.160",
+   "id": "f000077",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "262.160",
+   "children": [],
+   "end": "265.280",
+   "id": "f000078",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu \u00fap m\u1eb7t xu\u1ed1ng c\u00e1t Th\u00f4i b\u1ecdn m\u00ecnh \u0111i, tay \u0111\u1ea7u s\u1ecf n\u00f3i."
+   ]
+  },
+  {
+   "begin": "265.280",
+   "children": [],
+   "end": "265.280",
+   "id": "f000079",
+   "language": "vi",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "265.280",
+   "children": [],
+   "end": "268.080",
+   "id": "f000080",
+   "language": "vi",
+   "lines": [
+    "R\u1ed3i g\u00e3 quay sang c\u1eadu M\u00e0y kh\u00f4ng ch\u1ebft \u0111\u01b0\u1ee3c \u0111\u00e2u."
+   ]
+  },
+  {
+   "begin": "268.080",
+   "children": [],
+   "end": "271.600",
+   "id": "f000081",
+   "language": "vi",
+   "lines": [
+    "M\u00e0y s\u1ebd c\u00f2n ph\u1ea3i s\u1ed1ng \u0111\u1ec3 nh\u1edb r\u1eb1ng \u0111\u1eebng n\u00ean ngu xu\u1ea9n th\u1ebf."
+   ]
+  },
+  {
+   "begin": "271.600",
+   "children": [],
+   "end": "277.000",
+   "id": "f000082",
+   "language": "vi",
+   "lines": [
+    "Hai n\u0103m tr\u01b0\u1edbc, ngay ch\u00ednh ch\u1ed7 n\u00e0y, tao c\u0169ng \u0111\u00e3 nhi\u1ec1u l\u1ea7n m\u01a1 r\u1eb1ng tao ph\u1ea3i \u0111i T\u00e2y Ban Nha, t\u00ecm m\u1ed9t ng\u00f4i nh\u00e0 th\u1edd l\u00e0ng \u0111\u00e3 s\u1ee5p l\u1edf m\u00e0 l\u0169 ch\u0103n c\u1eebu th\u01b0\u1eddng \u0111\u01b0a c\u1eebu v\u00e0o \u0111\u00f3 l\u00e0m ch\u1ed7 tr\u00fa ch\u00e2n."
+   ]
+  },
+  {
+   "begin": "277.000",
+   "children": [],
+   "end": "277.560",
+   "id": "f000083",
+   "language": "vi",
+   "lines": [
+    "Trong ph\u00f2ng thay \u00e1o l\u1ec5 c\u00f3 m\u1ecdc m\u1ed9t c\u00e2y c\u1ea7u, d\u01b0\u1edbi r\u1ec5 n\u00f3 ch\u00f4n gi\u1ea5u m\u1ed9t kho v\u00e0ng."
+   ]
+  },
+  {
+   "begin": "277.560",
+   "children": [],
+   "end": "278.520",
+   "id": "f000084",
+   "language": "vi",
+   "lines": [
+    "Tao \u0111\u00e2u c\u00f3 ngu \u0111\u1ec3 ch\u1ec9 v\u00ec m\u1ed9t gi\u1ea5c m\u01a1 m\u00e0 v\u01b0\u1ee3t sa m\u1ea1c."
+   ]
+  },
+  {
+   "begin": "278.520",
+   "children": [],
+   "end": "279.160",
+   "id": "f000085",
+   "language": "vi",
+   "lines": [
+    "R\u1ed3i ch\u00fang b\u1ecf \u0111i."
+   ]
+  },
+  {
+   "begin": "279.160",
+   "children": [],
+   "end": "280.200",
+   "id": "f000086",
+   "language": "vi",
+   "lines": [
+    "C\u1eadu l\u1ea3o \u0111\u1ea3o \u0111\u1ee9ng d\u1eady, nh\u00ecn v\u1ec1 ph\u00eda Kim T\u1ef1 Th\u00e1p."
+   ]
+  },
+  {
+   "begin": "280.200",
+   "children": [],
+   "end": "280.960",
+   "id": "f000087",
+   "language": "vi",
+   "lines": [
+    "Th\u00e1p m\u1ec9m c\u01b0\u1eddi v\u1edbi c\u1eadu, c\u1eadu c\u01b0\u1eddi l\u1ea1i."
+   ]
+  },
+  {
+   "begin": "280.960",
+   "children": [],
+   "end": "281.560",
+   "id": "f000088",
+   "language": "vi",
+   "lines": [
+    "Tim c\u1eadu tr\u00e0n ng\u1eadp ni\u1ec1m vui."
+   ]
+  },
+  {
+   "begin": "281.560",
+   "children": [],
+   "end": "282.520",
+   "id": "f000089",
+   "language": "vi",
+   "lines": [
+    "Gi\u1edd th\u00ec c\u1eadu t\u00ecm th\u1ea5y kho b\u00e1u r\u1ed3i."
+   ]
+  }
+ ]
+}
